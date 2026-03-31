@@ -1,0 +1,12 @@
+{
+  "name": "dev-kit",
+  "description": "基础开发包",
+  "version": "0.0.1",
+  "author": {
+    "name": "yyzcl yang",
+    "email": "yyzclyang@gmail.com"
+  },
+  "homepage": "https://github.com/yyzclyang/open-agent",
+  "repository": "https://github.com/yyzclyang/open-agent",
+  "license": "MIT"
+}

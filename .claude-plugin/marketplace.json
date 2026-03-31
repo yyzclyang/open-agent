@@ -1,0 +1,25 @@
+{
+  "name": "open-agent",
+  "owner": {
+    "name": "yyzcl yang",
+    "email": "yyzclyang@gmail.com"
+  },
+  "metadata": {
+    "description": "Agent 工具集",
+    "version": "0.0.1"
+  },
+  "plugins": [
+    {
+      "name": "dev-kit",
+      "source": "./plugins/dev-kit",
+      "description": "基础开发包",
+      "version": "0.0.1",
+      "author": {
+        "name": "yyzcl yang",
+        "email": "yyzclyang@gmail.com"
+      },
+      "repository": "https://github.com/yyzclyang/open-agent",
+      "license": "MIT"
+    }
+  ]
+}
