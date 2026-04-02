@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Agent 工具集",
-    "version": "0.0.3"
+    "version": "0.0.4"
   },
   "plugins": [
     {
       "name": "dev-kit",
       "source": "./plugins/dev-kit",
       "description": "基础开发包",
-      "version": "0.0.1",
+      "version": "0.2.0",
       "author": {
         "name": "yyzcl yang",
         "email": "yyzclyang@gmail.com"
