@@ -1,0 +1,21 @@
+{
+  "name": "dev-kit",
+  "version": "0.2.1",
+  "description": "基础开发包",
+  "interface": {
+    "displayName": "Dev Kit",
+    "shortDescription": "开发辅助插件集",
+    "longDescription": "提供开发流程中常用的技能、命令与辅助配置，适合日常实现、规划与协作场景。",
+    "developerName": "yyzcl yang",
+    "websiteURL": "https://github.com/yyzclyang/open-agent-marketplace"
+  },
+  "author": {
+    "name": "yyzcl yang",
+    "email": "yyzclyang@gmail.com"
+  },
+  "homepage": "https://github.com/yyzclyang/open-agent-marketplace",
+  "repository": "https://github.com/yyzclyang/open-agent-marketplace",
+  "license": "MIT",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

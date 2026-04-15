@@ -1,12 +1,15 @@
 {
   "name": "dev-kit",
   "description": "基础开发包",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": {
     "name": "yyzcl yang",
     "email": "yyzclyang@gmail.com"
   },
   "homepage": "https://github.com/yyzclyang/open-agent-marketplace",
   "repository": "https://github.com/yyzclyang/open-agent-marketplace",
-  "license": "MIT"
+  "license": "MIT",
+  "agents": "./agents/",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
 }

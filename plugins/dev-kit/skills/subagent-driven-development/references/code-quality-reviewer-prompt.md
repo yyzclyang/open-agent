@@ -7,7 +7,7 @@
 **只在规格合规审查通过后才调度。**
 
 ```
-Task tool (superpowers:code-reviewer):
+Task tool (dev-kit:code-reviewer):
   使用 requesting-code-review/code-reviewer.md 中的模板
 
   WHAT_WAS_IMPLEMENTED: [来自实现者的报告]

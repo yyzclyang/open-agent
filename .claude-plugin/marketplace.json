@@ -6,26 +6,30 @@
   },
   "metadata": {
     "description": "Agent 工具集",
-    "version": "0.1.0"
+    "version": "0.1.1",
+    "pluginRoot": "./plugins"
   },
   "plugins": [
     {
       "name": "dev-kit",
-      "source": "./plugins/dev-kit",
+      "source": "dev-kit",
       "description": "基础开发包",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "author": {
         "name": "yyzcl yang",
         "email": "yyzclyang@gmail.com"
       },
       "repository": "https://github.com/yyzclyang/open-agent-marketplace",
-      "license": "MIT"
+      "license": "MIT",
+      "skills": "./skills/",
+      "agents": "./agents/",
+      "mcpServers": "./.mcp.json"
     },
     {
       "name": "zentao",
-      "source": "./plugins/zentao",
+      "source": "zentao",
       "description": "禅道集成工具",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "yyzcl yang",
         "email": "yyzclyang@gmail.com"
